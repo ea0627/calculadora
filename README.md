@@ -45,7 +45,7 @@ calculadora/
 
 ## 📸 Captura de pantalla
 
-![Vista previa](./assets/screenshot.png)
+![Vista previa](./assets/calculadora.png)
 
 ---
 
